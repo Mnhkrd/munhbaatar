@@ -1,0 +1,6 @@
+// JavaScript code for interactive elements (if needed)
+document.addEventListener('DOMContentLoaded', () => {
+    console.log("Skytel вэбсайт ачааллагдлаа!");
+});
+
+
